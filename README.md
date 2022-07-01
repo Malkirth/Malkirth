@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Malkirth
-- 👀 I’m interested in in Web and C ++ development
+- 👀 I’m interestedin Web and C ++ development
 - 🌱 I’m currently learning in high school
 - 💞️ I’m looking to collaborate on different small projects
 - 📫 How to reach me: on discord at Malkirth#7530
