@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Malkirth
-- 👀 I’m interestedin Web and C ++ development
-- 🌱 I’m currently learning in high school
-- 💞️ I’m looking to collaborate on different small projects
-- 📫 How to reach me: on discord at Malkirth#7530
+- 👋 Salut, je suis Malkirth (Mathieu)
+- 👀 Je m'intéresse au développement WEB et aux robots Discord.
+- 🌱 Je suis actuellement étudiant
+- 💞️ Je peux aider pour différents petits / moyens projets
+- 📫 Vous pouvez me contacter: sur discord: Malkirth#7530, par mail: contact@malkirth.fr
