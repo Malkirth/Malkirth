@@ -2,4 +2,4 @@
 - 👀 Je m'intéresse au développement WEB et aux robots Discord.
 - 🌱 Je suis actuellement étudiant
 - 💞️ Je peux aider pour différents petits / moyens projets
-- 📫 Vous pouvez me contacter: sur DC: Malkirth#7530, par mail: contact@malkirth.com
+- 📫 Vous pouvez me contacter: sur Discord: Malkirth, par mail: contact@malkirth.com
